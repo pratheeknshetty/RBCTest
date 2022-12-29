@@ -1,5 +1,5 @@
 @SearchService
-Feature: This is the feature to test the Search Service
+Feature: This is the feature to test the Search Service -http://universities.hipolabs.com/search
 
   @testCountry
   Scenario Outline:Testing the GET Search service for any country passed in parameter
