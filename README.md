@@ -1,5 +1,5 @@
 # RBCTest
-Clone the entire project to local repository<br />
+Clone the entire project to local repository - https://github.com/pratheeknshetty/RBCTest.git <br />
 Open in IDE - IntelliJ<br />
 Maven Clean > Install<br />
 Select the JUnit - TestRunner<br />
