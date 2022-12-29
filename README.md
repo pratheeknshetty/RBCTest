@@ -1,5 +1,6 @@
 # RBCTest
 Clone the entire project to local repository - https://github.com/pratheeknshetty/RBCTest.git <br />
+java version used 11 and spring boot version 2.5.7 <br />
 Open the project in IDE - IntelliJ<br />
 Maven Clean > Install<br />
 Open the file src/test/java/RBCTest/Hipolabs/runner/TestRunner.java and run the TestRunner <br />
