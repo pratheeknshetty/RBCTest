@@ -1,8 +1,8 @@
 @SearchService
-Feature: This is to test the Search Service
+Feature: This is the feature to test the Search Service
 
   @testCountry
-  Scenario Outline:Testing the GET Search service for exact values
+  Scenario Outline:Testing the GET Search service for any country passed in parameter
     Given  Search Service Endpoint is setup
     And  I add parameter <parameterName> as <paramValue>
     When I hit the Search Service Endpoint
@@ -14,7 +14,7 @@ Feature: This is to test the Search Service
 
 
   @testCountryAndName
-  Scenario Outline:Testing the GET Search service for matching values
+  Scenario Outline:Testing the GET Search service for any country and the name parameter passed
     Given  Search Service Endpoint is setup
     And  I add parameter <parameterName1> as <paramValue1>
     And  I add parameter <parameterName2> as <paramValue2>
