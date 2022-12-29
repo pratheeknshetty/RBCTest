@@ -1,9 +1,8 @@
 # RBCTest
 Clone the entire project to local repository - https://github.com/pratheeknshetty/RBCTest.git <br />
-Open in IDE - IntelliJ<br />
+Open the project in IDE - IntelliJ<br />
 Maven Clean > Install<br />
-Select the JUnit - TestRunner<br />
-Run the test<br />
+Open the file src/test/java/RBCTest/Hipolabs/runner/TestRunner.java and run the TestRunner <br />
 You will have the Cucumber report link at the end of the Feature level test result<br />
 Alternatively you can also open the file cucumber.html under target folder in any browser to see the report<br />
 src/test/java/RBCTest/Hipolabs/runner/TestRunner.java - you can segregate and selectively execute tests based on the tags mentioned here<br />
